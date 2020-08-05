@@ -10,3 +10,6 @@ Unity projects that includes
 3. Agent randomly chooses waypoints scattered across level
 
 4. Simple level made using ProBuilder
+
+
+![demo](docs/images/output.gif)
