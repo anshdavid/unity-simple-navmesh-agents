@@ -1,5 +1,5 @@
-Simple AI Agents
-================
+Simple Navmesh Agents
+=====================
 
 Unity projects that includes
 
